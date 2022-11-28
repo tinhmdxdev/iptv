@@ -103,12 +103,12 @@ https://drm-livecdn.hplus.com.vn/CDN-FPT02/HOMESHOPPING-SD-ABR/HTV-ABR/HOMESHOPP
 #EXTINF:0 tvg-id="htvc_coop" group-title="3️⃣| HTV" tvg-logo="https://i.ibb.co/P5RQfZg/HTVCoop-cc.webp",HTV Co.op
 https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVCOOP-SD-ABR/HTV-ABR/HTVCOOP-SD-720p/chunks.m3u8?cc
 
-#EXTINF:-1 tvg-id="vtvcab19hd" group-title="🇻🇳-🇷🇺| PHIM TRUYỆN TRONG & NGOÀI NƯỚC" tvg-logo="https://i.imgur.com/8e5aeiW.png",VTVcab 19 - Vie Dramas
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
-https://856175157.r.vtvcdn.com/ondrm/FILM_TV/m20_index.m3u8
 #EXTINF:-1 tvg-id="vtvcab1hd" group-title="🇻🇳-🇷🇺| VĂN HÓA - NGHỆ THUẬT & GIẢI TRÍ" tvg-logo="https://i.imgur.com/86M8nJ2.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vie-giai-tri-hd/${start}/${offset}",VTVcab1 - Vie Giải Trí
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://api.vthanhtivi.pw/v1/getlink/vieon/vie-giai-tri-hd
+#EXTINF:-1 tvg-id="vtvcab19hd" group-title="🇻🇳-🇷🇺| PHIM TRUYỆN TRONG & NGOÀI NƯỚC" tvg-logo="https://i.imgur.com/8e5aeiW.png",VTVcab 19 - Vie Dramas
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
+https://856175157.r.vtvcdn.com/ondrm/FILM_TV/m20_index.m3u8
 #EXTINF:-1 tvg-id="vtvcab2hd" group-title="🇻🇳-🇷🇺| PHIM TRUYỆN TRONG & NGOÀI NƯỚC" tvg-logo="https://i.imgur.com/UVhLDh4.png",ON Phim Việt
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
 https://856175157.r.vtvcdn.com/ondrm/PHIM_VIET/m20_index.m3u8
