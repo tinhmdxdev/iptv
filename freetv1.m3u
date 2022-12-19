@@ -9,6 +9,12 @@ https://vips-livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8?c
 #EXTINF:-1 tvg-id="vtv2hd" tvg-name="VTV2 FHD" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png" group-title="VTV" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv2_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8" ,VTV2 HD
 http://172.104.57.43:8811/stream/channelid/1779682701?profile=pass
 
+#EXTINF:-1 tvg-id="vtv2hd" group-title="1️⃣| VTV" tvg-logo="https://i.ibb.co/G0PXW8r/VTV2-cc.webp" catchup="append" catchup-days="3" catchup-source="https://tshift.fptplay.net/dvr/vtv2_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8?cc",VTV2 FPT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://vips-livecdn.fptplay.net/sevent/vtv2_vhls.smil/chunklist_b5000000.m3u8?cc
+#https://8ypuv74wu.vtvgiaitri.vn/vtv02/vtv02@1080p.m3u8?cc
+#https://dl.dropboxusercontent.com/s/c7lplr1ke566zsr/./
+
 #EXTINF:-1 tvg-id="vtv3hd" tvg-name="VTV3 FHD" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png" group-title="VTV" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv3hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8" ,VTV3 HD
 http://172.104.57.43:8811/stream/channelid/192899465?profile=pass
 
@@ -24,7 +30,8 @@ http://172.104.57.43:8811/stream/channelid/105724547?profile=pass
 #EXTINF:0 tvg-id="vtv5hdtn" group-title="1️⃣| VTV" tvg-logo="https://i.ibb.co/Fxzdz7v/ccvtv5TN.webp",VTV5.TN HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://nvzoftzsvflivcf.vcdn.com.vn/vtv5tn/vtv5tn@high.m3u8?cc
-#https://dl.dropboxusercontent.com/s/y9yl0ub4auytl70/./   																						 ㅤ
+#https://dl.dropboxusercontent.com/s/y9yl0ub4auytl70/./
+ㅤ
 #EXTINF:0 tvg-id="vtv5hdtnb" group-title="1️⃣| VTV" tvg-logo="https://i.ibb.co/Qrt7Qmp/ccvtv5-TNB.webp",VTV5.TNB HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://nvzoftzsvflivcf.vcdn.com.vn/vtv5tnb/vtv5tnb@high.m3u8?cc
@@ -33,6 +40,12 @@ https://nvzoftzsvflivcf.vcdn.com.vn/vtv5tnb/vtv5tnb@high.m3u8?cc
 #EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv6hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV.CT HD
 http://103.75.187.237:9981/stream/channelid/264239339?
 #https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-id="vtv6hd" group-title="1️⃣| VTV" tvg-logo="https://i.ibb.co/PtJKgHX/vtvcantho.webp" catchup="append" catchup-days="3" catchup-source="https://tshift.fptplay.net/dvr/vtv6hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8?cc",VTV.CT FPT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://vips-livecdn.fptplay.net/sevent/vtvcantho_vhls.smil/chunklist_b5000000.m3u8?cc
+#https://8ypuv74wu.vtvgiaitri.vn/vtv06/vtv06@1080p.m3u8?cc
+#https://dl.dropboxusercontent.com/s/0mdi9d3mk1movxm/./
 
 #EXTINF:-1 tvg-id="vtv7hd" group-title="1️⃣| VTV" tvg-logo="https://i.ibb.co/Z89vrHX/VTV7-cc.webp" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv7hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV7 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
