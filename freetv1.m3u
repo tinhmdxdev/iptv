@@ -625,15 +625,11 @@ https://vips-livecdn.fptplay.net/hda3/australiaplus_vhls.smil/chunklist_b5000000
 #EXTINF:0 tvg-id="bloomberg" group-title="🇧🌎🇽" tvg-logo="https://webapi.mytv.vn/static/channel/591.png?cc",Bloomberg
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://vips-livecdn.fptplay.net/hda3/bloomberg_vhls.smil/chunklist_b5000000.m3u8?cc
-#EXTINF:0 tvg-id="cnbc" group-title="🇧🌎🇽" tvg-logo="https://i.ibb.co/PjtT8bq/2560px-CNBC.png",CNBC
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://vips-livecdn.fptplay.net/sdb/cnbc_hls.smil/chunklist_b2500000.m3u8?cc
+
 #EXTINF:0 tvg-id="dw" group-title="🇧🌎🇽" tvg-logo="https://i.ibb.co/4dm1QtB/dw.png",DW
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://vips-livecdn.fptplay.net/hda2/dwenglish_vhls.smil/chunklist_b5000000.m3u8?cc
-#EXTINF:0 tvg-id="france24eng" group-title="🇧🌎🇽" tvg-logo="https://i.ibb.co/sCp9njs/cc-France24.webp",France24
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://vips-livecdn.fptplay.net/sdb/france24_hls.smil/chunklist_b2500000.m3u8?cc
+
 #EXTINF:0 tvg-id="tv5monde" group-title="🇧🌎🇽" tvg-logo="https://i.ibb.co/Js5d6Bc/tv5.png",TV5 Monde Asie
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://vips-livecdn.fptplay.net/sdb/tv5_hls.smil/chunklist_b2500000.m3u8?cc
@@ -710,9 +706,11 @@ https://strm.voh.com.vn/radio/channel5/playlist.m3u8?cc
 #EXTINF:-1 group-title="🎧| MP3" tvg-logo="https://i.ibb.co/RTqj6Y9/voh610.png",AM 610Khz
 #EXTVLCOPT:http-user-agent="Radio"
 https://strm.voh.com.vn/radio/channel2/playlist.m3u8?cc
+
 #EXTINF:-1 group-title="🎧| MP3" tvg-logo="https://photo-zmp3.zadn.vn/avatars/8/5/4/0/854010f76bddeefd5f13305a1d6cc8be.jpg",On Air
 #EXTVLCOPT:http-user-agent="Radio"
 https://vnno-zn-11-tf-multi-playlist-zmp3.zadn.vn/HZQveZhPc-8/zhls/playback-realtime/very-low/a07d79b945fcaca2f5ed/very-low.m3u8?cc
+
 #EXTINF:-1 group-title="🎧| MP3" tvg-logo="https://photo-zmp3.zadn.vn/avatars/7/7/8/d/778d152062edfbe0e4c4abf151858bf0.jpg",Chạm
 #EXTVLCOPT:http-user-agent="Radio"
 https://vnno-zn-14-tf-multi-playlist-zmp3.zadn.vn/Ok1SSsyycZY/zhls/playback-realtime/very-low/db68d4afe8ea01b458fb/very-low.m3u8?cc
@@ -729,15 +727,6 @@ https://vnno-zn-1-tf-multi-playlist-zmp3.zadn.vn/oIWL6uZPN04/zhls/playback-realt
 https://vnno-zn-12-tf-multi-playlist-zmp3.zadn.vn/IOohJIUxDcs/zhls/playback-realtime/very-low/111c87d8bb9d52c30b8c/very-low.m3u8?cc
 #EXTINF:-1 group-title="🎧| MP3" tvg-logo="https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgICQ2ciKiAoMCxIOU3RhdGlvblByb2ZpbGUYgICQucnHqwsMogEEemVubw/image/",Việt Nam
 #EXTVLCOPT:http-user-agent="Radio"
-https://stream.zeno.fm/4q7y9hvkp2zuv
-
-#EXTINF:-1 group-title="🎧| MP3" tvg-logo="https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgICQ2ciKiAoMCxIOU3RhdGlvblByb2ZpbGUYgIDQoL-YpAoMogEEemVubw/image/",Cải Lương
-#EXTVLCOPT:http-user-agent="Radio"
-https://stream.zeno.fm/0trm6wrnga0uv
-
-#EXTINF:-1 group-title="🎧| MP3" tvg-logo="https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgICQ2ciKiAoMCxIOU3RhdGlvblByb2ZpbGUYgIDQiavcsgsMogEEemVubw/image/",Phật Giáo
-#EXTVLCOPT:http-user-agent="Radio"
-https://stream.zeno.fm/8456uy0bcm0uv
 
 #EXTINF:-1 group-title="🎧| MP3" tvg-logo="https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgICQ2ciKiAoMCxIOU3RhdGlvblByb2ZpbGUYgICw0ILTsQoMogEEemVubw/image/",Dân Ca
 #EXTVLCOPT:http-user-agent="Radio"
