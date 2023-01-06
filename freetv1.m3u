@@ -125,22 +125,6 @@ https://vips-livecdn.fptplay.net/hda2/vinhlong3_vhls.smil/chunklist_b5000000.m3u
 https://vips-livecdn.fptplay.net/hda3/vinhlong4hd_hls.smil/chunklist_b2500000.m3u8?cc
 #https://dl.dropboxusercontent.com/s/khm7zb7fmtgjkyl/./
 
-#EXTINF:-1 tvg-id="vtvcab19hd" group-title="🇻🇳-🇷🇺| PHIM TRUYỆN TRONG & NGOÀI NƯỚC" tvg-logo="https://i.imgur.com/8e5aeiW.png",VTVcab 19 - Vie Dramas
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
-https://856175157.r.vtvcdn.com/ondrm/FILM_TV/m20_index.m3u8
- 
-#EXTINF:-1 tvg-id="vtvcab20vfamily" group-title="VTVcab" tvg-logo="https://static2.vieon.vn/vieplay-image/livetv_logo_dark/2022/08/02/e292n77i_vtvcab20-vfamily_468_134.png",VTVcab20 - VFamily
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://856175157.r.vtvcdn.com/ondrm/VFAMILY/m20_index.m3u8
-
-#EXTINF:-1 tvg-id="vtvcab21cartoonkid" group-title="VTVcab" tvg-logo="https://static2.vieon.vn/vieplay-image/livetv_logo_dark/2022/08/02/r4un94i9_vtvcab21-cartoonkid_468_134.png",VTVcab21 - Cartoon Kid
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://856175157.r.vtvcdn.com/ondrm/BIBI_PLUS_clear/m20_index.m3u8
-
-#EXTINF:-1 tvg-id="vtvcab22lifetv" group-title="VTVcab" tvg-logo="https://static2.vieon.vn/vieplay-image/livetv_logo_dark/2022/08/02/dcwpwd73_vtvcab22-life-tvceb0699a7b37c2ab3a3ea481ddfd5651_468_134.png",VTVcab22 - Life TV
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://856175157.r.vtvcdn.com/ondrm/LIFE_TV/m20_index.m3u8
-
 #EXTINF:0 tvg-id="vtc1hd" group-title="2️⃣| VTC" tvg-logo="https://i.ibb.co/2S7N7Ns/VTC1-cc.webp" catchup="append" catchup-days="3" catchup-source="https://tshift.fptplay.net/dvr/vtc1_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8?cc",VTC1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://vips-livecdn.fptplay.net/hda1/vtc1_vhls.smil/chunklist_b5000000.m3u8?cc
@@ -201,6 +185,22 @@ https://vips-livecdn.fptplay.net/hda1/vtc14_vhls.smil/chunklist_b5000000.m3u8?cc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://vips-livecdn.fptplay.net/sdb/vtc16_hls.smil/chunklist_b2500000.m3u8?cc
 #https://dl.dropboxusercontent.com/s/kq8nkhvgjfpecgo/./ 
+
+#EXTINF:-1 tvg-id="vtvcab19hd" group-title="🇻🇳-🇷🇺| PHIM TRUYỆN TRONG & NGOÀI NƯỚC" tvg-logo="https://i.imgur.com/8e5aeiW.png",VTVcab 19 - Vie Dramas
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
+https://856175157.r.vtvcdn.com/ondrm/FILM_TV/m20_index.m3u8
+ 
+#EXTINF:-1 tvg-id="vtvcab20vfamily" group-title="VTVcab" tvg-logo="https://static2.vieon.vn/vieplay-image/livetv_logo_dark/2022/08/02/e292n77i_vtvcab20-vfamily_468_134.png",VTVcab20 - VFamily
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://856175157.r.vtvcdn.com/ondrm/VFAMILY/m20_index.m3u8
+
+#EXTINF:-1 tvg-id="vtvcab21cartoonkid" group-title="VTVcab" tvg-logo="https://static2.vieon.vn/vieplay-image/livetv_logo_dark/2022/08/02/r4un94i9_vtvcab21-cartoonkid_468_134.png",VTVcab21 - Cartoon Kid
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://856175157.r.vtvcdn.com/ondrm/BIBI_PLUS_clear/m20_index.m3u8
+
+#EXTINF:-1 tvg-id="vtvcab22lifetv" group-title="VTVcab" tvg-logo="https://static2.vieon.vn/vieplay-image/livetv_logo_dark/2022/08/02/dcwpwd73_vtvcab22-life-tvceb0699a7b37c2ab3a3ea481ddfd5651_468_134.png",VTVcab22 - Life TV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://856175157.r.vtvcdn.com/ondrm/LIFE_TV/m20_index.m3u8
 
 #EXTINF:-1 tvg-id="vtvcab1hd" group-title="🇻🇳-🇷🇺| VĂN HÓA - NGHỆ THUẬT & GIẢI TRÍ" tvg-logo="https://i.imgur.com/86M8nJ2.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vie-giai-tri-hd/${start}/${offset}",VTVcab1 - Vie Giải Trí
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
